@@ -6,6 +6,12 @@ This is a swift application with the following features:
 - SVG caching plus SVGKit
 - Clean architechture
 
+Other features:
+- Currency formatting by locale
+- Filterable assets (with animated filter view)
+- Sorted wallets by balance
+- Filtered wallets
+
 To run:
 - Download and unzip files
 - Open "JTAssets.xcworkspace" file
